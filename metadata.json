@@ -1,0 +1,6 @@
+{
+  "name": "Remix AI Sports Analytics Pro v5 (gemini3.8)",
+  "description": "An AI-powered sports analytics tool that provides data-driven predictions for upcoming matches. Featuring the exclusive high-odds SuperCuotas forge system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
